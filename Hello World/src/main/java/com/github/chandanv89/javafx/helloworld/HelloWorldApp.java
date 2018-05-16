@@ -8,8 +8,16 @@ import javafx.stage.Stage;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
+/**
+ * The type Hello world app.
+ */
 public class HelloWorldApp extends Application {
 
+   /**
+    * The entry point of application.
+    *
+    * @param args the input arguments
+    */
    public static void main(String[] args) {
       launch(args);
    }

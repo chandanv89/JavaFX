@@ -11,5 +11,6 @@
 
    <modules>
       <module>Hello World</module>
+      <module>JSON Validator</module>
    </modules>
 </project>
